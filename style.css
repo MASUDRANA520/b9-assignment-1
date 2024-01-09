@@ -50,7 +50,7 @@ font-family: Inter;
 font-size: 48px;
 font-weight: 700; 
 }
-.img{
+.images{
   margin: 0px 399px 20px ;
 }
 /*Welcome-to-party*/
@@ -95,5 +95,93 @@ font-weight: 700;
   font-size: 15px;
   border-style: none;
 }
-
+/*address
+.Address{
+  background: rgb(226, 193, 193) ;
+  width: 1320px;
+  height: 482px;
+}
+*/
+/*first-section*/
+.first-section{
+  display: flex;
+  margin: 120px 140px 0 140px;
+}
+.main-section-left{
+  width: 30%;
+}
+.main-section-right{
+  width: 30%;
+}
+.m-p{
+  font-family: 'Inter', sans-serif;
+  color: #949393;
+  font-weight: 400;
+  padding: 25px 0 25px 0;
+}
+.main-section-left{
+  padding-top: 50px;
+  padding-right: 30px;
+}
+.main-section-right{
+  padding-top: 50px;
+  padding-left: 50px;
+}
+.main-section-right>img{
+  padding-top: 30px;
+}
+.h4-m{ 
+  color: #f00;
+  font-weight: 800;
+}
+.h3-m{
+  padding-top: 20px;
+  font-size: 40px;
+}
+.h-m{
+  font-size: 40px;
+  color: #f00;
+}
+.main-section-img{
+  width: 35%;
+  border: 5px solid red;
+  border-radius: 100%;
+}
+.main-section-img >img{
+  padding: 35px;
+}
+/* second section style */
+.second-img{
+  padding: 120px 140px 0 140px ;
+}
+.second-text{
+  width: 700px;
+}
+.second-h4{
+  color: #f00;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 700;
+  
+}
+.second-img{
+  display: table;
+  gap: 24px;
+}
+.second-h2{
+  color: #000;
+  font-family: Merriweather;
+  font-size: 40px;
+}
+.img{
+  float: left;
+  width: 30%; 
+  margin: 15px;
+  border-radius: 10px;
+  
+}
+.img >img{
+  width: 322px;
+  border-radius: 20px;
+}
  
