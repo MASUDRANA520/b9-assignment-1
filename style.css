@@ -1,0 +1,30 @@
+body{
+  font-family: 'Merriweather', serif;
+  font-family: 'Inter', sans-serif;
+}
+/*banner section */
+.banner-image{
+  background-image: url("resource/Banner\ Image.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 50px 140px 120px ;
+  text-align: cente;
+  padding: 160px;
+  border-radius: 16px;
+  background-position: bottom center;
+}
+.banner-title{
+  color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-weight: 400;
+}
+.banner-description{
+  color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+line-height: 95px;
+}
